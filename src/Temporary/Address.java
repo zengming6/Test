@@ -1,4 +1,4 @@
-package Temporary;
+package temporary;
 
 public class Address {
     String city;

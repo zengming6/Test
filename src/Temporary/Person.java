@@ -1,4 +1,4 @@
-package Temporary;
+package temporary;
 
 class Person {
     private String name;

@@ -1,4 +1,4 @@
-package Money;
+package money;
 
 public class BaseException extends RuntimeException{
     public BaseException(){

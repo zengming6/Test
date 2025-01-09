@@ -1,4 +1,4 @@
-package Money;
+package money;
 
 // GaoFeiException 类继承 BaseException
 public class GaoFeiException extends BaseException {

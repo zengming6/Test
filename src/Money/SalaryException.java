@@ -1,4 +1,4 @@
-package Money;
+package money;
 
 // SalaryException 类继承 BaseException
 public class SalaryException extends BaseException {
