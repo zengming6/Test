@@ -7,6 +7,7 @@ public class Main {
         Person p = new Person("Xiao Ming");
         System.out.println(p.getName());
         Class c = p.getClass();
+        May the force be with you!
         try {
             Field f = c.getDeclaredField("name");
             f.setAccessible(true);
