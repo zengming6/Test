@@ -1,4 +1,4 @@
-package Temporary;
+package temporary;
 
 public record Point(int x,int y) {
     public static Point of() {

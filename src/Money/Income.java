@@ -1,4 +1,4 @@
-package Money;
+package money;
 
 public interface Income {
     double getTax();

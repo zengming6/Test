@@ -1,4 +1,4 @@
-package Money;
+package money;
 
 public class GaoFei implements Income {
     private double gaoFei;
